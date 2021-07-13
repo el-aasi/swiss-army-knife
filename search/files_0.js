@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['dictionaryextensions_2ecs_80',['DictionaryExtensions.cs',['../DictionaryExtensions_8cs.html',1,'']]]
+  ['compression_2emd_91',['Compression.md',['../Compression_8md.html',1,'']]]
 ];
